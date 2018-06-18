@@ -1,2 +1,2 @@
 # todo_django
-implementing django crud.
+Implementing django crud.
